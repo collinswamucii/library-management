@@ -159,7 +159,7 @@ This Spring Boot application provides a comprehensive library management system 
 
 ## Testing
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/34269371-badae052-1143-4653-b7f1-076ede034629?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D34269371-badae052-1143-4653-b7f1-076ede034629%26entityType%3Dcollection%26workspaceId%3D1729b7ac-325f-4554-8611-55f062bef728)
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/16208567-8a90e276-cbfc-4e6e-b83b-7959b37655ba?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D16208567-8a90e276-cbfc-4e6e-b83b-7959b37655ba%26entityType%3Dcollection%26workspaceId%3Df475ef25-1f30-4c4c-bec9-98acf751de46)
 
 ## Troubleshooting
 
